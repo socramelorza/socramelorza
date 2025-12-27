@@ -1,4 +1,4 @@
-# ⚡ Blockchain & AI Engineer | Full-Stack Developer
+# ⚡ Blockchain & AI Architect | Full-Stack Developer
 
 > **Transforming complex ideas into secure Smart Contracts and Intelligent Agents.** > 🟢 **Available for Freelance & Consultations:** [socramelorza@gmail.com](mailto:socramelorza@gmail.com)
 
