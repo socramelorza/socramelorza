@@ -1,6 +1,15 @@
 # ⚡ Blockchain & AI Architect | Full-Stack Developer
 
-> **Transforming complex ideas into secure Smart Contracts and Intelligent Agents.** > 🟢 **Available for Freelance & Consultations:** [socramelorza@gmail.com](mailto:socramelorza@gmail.com)
+> **Transforming complex ideas into secure Smart Contracts and Intelligent Agents.** > 🟢 **Available for Freelance & Consultations:**
+
+### 💼 Work With Me
+I am currently **available** for freelance projects, smart contract development, and AI agent integrations. Let's turn your vision into code.
+
+| **Quick Chat** | **Professional Network** | **Email Inquiry** |
+| :--- | :--- | :--- |
+| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567991173973?text=Hi%20there!%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20new%20project.) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoselorza/) | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:socramelorza@gmail.com) |
+
+> ☕ **Support my work:** Pix `00027730158` (Every coffee fuels a new smart contract!)
 
 ---
 
@@ -27,18 +36,6 @@ I help startups and protocols launch secure, automated decentralized application
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
----
-
-### 💼 Work With Me
-I am currently **available** for freelance projects, smart contract development, and AI agent integrations. Let's turn your vision into code.
-
-| **Quick Chat** | **Professional Network** | **Email Inquiry** |
-| :--- | :--- | :--- |
-| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567991173973?text=Hi%20there!%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20new%20project.) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoselorza/) | [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:socramelorza@gmail.com) |
-
-> ☕ **Support my work:** Pix `00027730158` (Every coffee fuels a new smart contract!)
 
 ---
 
